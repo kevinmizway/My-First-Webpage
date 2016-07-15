@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _First HTML Web Page with list of favorites, 07.15.2016
+#### First HTML Web Page with list of favorites, 07.15.2016
 
 #### By _**Kevin Mizway**_
 
