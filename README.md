@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _First HTML/CSS Web Page with lists of favorite people and places, 07.15.2016_
+#### _First HTML/CSS Web Page with lists of favorite people, animal, and places, 07.25.2016_
 
 #### By _**Kevin Mizway**_
 
